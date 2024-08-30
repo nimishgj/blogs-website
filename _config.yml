@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "blogs.nimishgj.me"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -194,7 +194,7 @@ defaults:
       permalink: /:title/
 
 sass:
-  style: compressed
+  style: compressedFBBB-ADA3
 
 compress_html:
   clippings: all
